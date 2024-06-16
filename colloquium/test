@@ -1,0 +1,9 @@
+// Date d1{1, 2, 2001};
+// Date d2{2, 1, 2000};
+// Date d3{4, 2, 2004};
+// d1 -= 30;
+// d2 -= 12;
+// d3 -= 366;
+// std::cout << d1.GetDay() << ' ' << d1.GetMonth() << ' ' << d1.GetYear() << '\n';
+// std::cout << d2.GetDay() << ' ' << d2.GetMonth() << ' ' << d2.GetYear() << '\n';
+// std::cout << d3.GetDay() << ' ' << d3.GetMonth() << ' ' << d3.GetYear() << '\n';

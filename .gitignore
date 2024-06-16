@@ -1,0 +1,6 @@
+bin/
+*.zip
+*.dSYM
+.DS_Store
+.vscode
+.idea
